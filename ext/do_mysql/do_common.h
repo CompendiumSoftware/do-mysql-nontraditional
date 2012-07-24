@@ -1,6 +1,7 @@
 #ifndef _DO_COMMON_H_
 #define _DO_COMMON_H_
 
+
 #include <ruby.h>
 
 // Needed for defining error.h

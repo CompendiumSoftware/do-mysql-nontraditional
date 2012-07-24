@@ -23,6 +23,7 @@ ID ID_LOG;
 VALUE mExtlib;
 VALUE rb_cByteArray;
 
+
 // References to DataObjects base classes
 VALUE mDO;
 VALUE cDO_Quoting;
